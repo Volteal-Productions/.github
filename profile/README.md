@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://placehold.co/500x250?text=Volteal+Productions" height="250" />
+  <img src="./img/logo.png" height="250" />
   <h1>Welcome to the Volteal Productions Github page!</h1>
   <h2>"Making simple to use and scaleable software that works."</h2>
-  <h6><img src="https://placehold.co/120x120?text=Ishala" height="120" /><br>Meet Ishala, our mascot!</h6>
+  <h6><img src="./img/ishala_icon.jpg" height="120" /><br>Meet Ishala, our adorable mascot!</h6>
   <hr>
   <p></p>
 </div>
